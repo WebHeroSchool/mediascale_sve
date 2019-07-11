@@ -18,7 +18,7 @@ h1 {
 }
 @media (min-width: 482px) and (max-width:641px) { 
       h1 {
-        color: yellowgreen;
+        color: palevioletred;
         font-size: 30px;
     }
 }
